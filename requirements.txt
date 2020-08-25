@@ -1,0 +1,10 @@
+pip install Flask gunicorn
+pip install pyjwt
+pip install google
+pip install http
+pip install json
+pip install time
+pip install datetime
+pip install google-resumable-media
+pip install google-cloud-storage
+pip install google-cloud-bigquery
